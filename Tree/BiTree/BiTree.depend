@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1562228121 source:d:\学习\c代码\数据结构\树\bitree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BiTree.h"
+
+1562228121 d:\学习\c代码\数据结构\树\bitree\bitree.h
+	<stdio.h>
+
+1562228121 source:d:\学习\c代码\数据结构\树\bitree\bitree.c
+	<stdio.h>
+	<stdlib.h>
+	"BiTree.h"
+

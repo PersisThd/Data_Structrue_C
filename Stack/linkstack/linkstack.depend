@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561879314 source:d:\学习\c代码\数据结构\栈\顺序栈\linkstack\linkstack.c
+	"linkstack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561879154 d:\学习\c代码\数据结构\栈\顺序栈\linkstack\linkstack.h
+	<stdio.h>
+
+1561879397 source:d:\学习\c代码\数据结构\栈\顺序栈\linkstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkstack.h"
+

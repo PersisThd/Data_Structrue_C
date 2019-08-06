@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561465330 source:d:\学习\c代码\数据结构\线性表\循环链表\double_list\doublelist.c
+	<stdio.h>
+	<stdlib.h>
+	"doublelist.h"
+
+1561465330 d:\学习\c代码\数据结构\线性表\循环链表\double_list\doublelist.h
+	<stdio.h>
+
+1561452792 source:d:\学习\c代码\数据结构\线性表\循环链表\double_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doublelist.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561967776 source:d:\学习\c代码\数据结构\队列\sqquene\sqquene.c
+	<stdio.h>
+	<string.h>
+	"SqQuene.h"
+
+1561965538 d:\学习\c代码\数据结构\队列\sqquene\sqquene.h
+	<stdio.h>
+
+1561967486 source:d:\学习\c代码\数据结构\队列\sqquene\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqQuene.h"
+

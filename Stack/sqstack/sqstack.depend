@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561557342 source:d:\学习\c代码\数据结构\栈\顺序栈\sqstack\sqstack.c
+	<stdio.h>
+	<string.h>
+	"SqStack.h"
+
+1561618289 d:\学习\c代码\数据结构\栈\顺序栈\sqstack\sqstack.h
+	<stdio.h>
+
+1561618136 source:d:\学习\c代码\数据结构\栈\顺序栈\sqstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+

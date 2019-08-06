@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1560835294 source:d:\学习\c代码\数据结构\线性表\通用单链表\common_linklist\c_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"c_linklist.h"
+
+1560835294 d:\学习\c代码\数据结构\线性表\通用单链表\common_linklist\c_linklist.h
+	<stdio.h>
+
+1560835035 source:d:\学习\c代码\数据结构\线性表\通用单链表\common_linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"c_linklist.h"
+

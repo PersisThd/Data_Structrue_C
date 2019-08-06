@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1562053634 source:d:\学习\c代码\数据结构\队列\circle_quene\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circle_queue.h"
+
+1562053084 d:\学习\c代码\数据结构\队列\circle_quene\circle_queue.h
+	<stdio.h>
+
+1562053983 source:d:\学习\c代码\数据结构\队列\circle_quene\circle_queue.c
+	"circle_queue.h"
+	<string.h>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1560826372 source:d:\学习\c代码\单链表\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linklist.h"
+
+1560826616 d:\学习\c代码\单链表\linklist\linklist.h
+	<stdio.h>
+
+1560826569 source:d:\学习\c代码\数据结构\线性表\单链表\linklist\linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linklist.h"
+
+1560827453 d:\学习\c代码\数据结构\线性表\单链表\linklist\linklist.h
+	<stdio.h>
+
+1560826372 source:d:\学习\c代码\数据结构\线性表\单链表\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linklist.h"
+

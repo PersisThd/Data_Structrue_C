@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561987985 source:d:\学习\c代码\数据结构\队列\linkqueue2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkQueue.h"
+
+1561982762 d:\学习\c代码\数据结构\队列\linkqueue2\linkqueue.h
+	<stdio.h>
+
+1561988285 source:d:\学习\c代码\数据结构\队列\linkqueue2\linkqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkQueue.h"
+
